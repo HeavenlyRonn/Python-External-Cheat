@@ -1,4 +1,8 @@
-# have fun skidding
+# I uploaded this to be open source and ya'll can skid on this shi, dont doxx or make fun of my profile u niggas.
+# Im A First Year College Student So Ya'll Should Understand How Bad I Write Clean Codes, But Ya'll Aren't Retarded/Autistics.
+# Yall Can Clearly Read This Shi As This Was Written In Python.
+
+
 import requests
 import ctypes
 from ctypes import sizeof, byref, c_void_p, c_size_t, windll, wintypes, POINTER
